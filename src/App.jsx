@@ -121,7 +121,7 @@ const App = () => {
         <input type="submit" value="Let the Force be with you!" disabled={loading} />
       </form>
 
-      <h1>Search Results:</h1>
+      <h1>Searching the galaxy...</h1>
 
     
       {loading && <p>Searching the galaxy...</p>}
